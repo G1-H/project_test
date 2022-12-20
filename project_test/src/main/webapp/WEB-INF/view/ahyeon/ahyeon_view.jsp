@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <link rel="stylesheet" href="css/ahyeon_view.css"/>
-</head>
+</head> 
 <body>
 	<h2>아현이 버튼</h2>
 	<label class="switch-button">
