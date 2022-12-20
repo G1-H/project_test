@@ -7,7 +7,6 @@
 <title>index</title>
 </head>
 <body>
-
 <a href="/ahyeon/ahyeon_view">아현</a>
 <a href="/subi/subi_view">수비</a>
 <a href="/jinwoo/jinwoo_view">진우</a>
