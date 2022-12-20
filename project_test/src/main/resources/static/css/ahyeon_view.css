@@ -21,7 +21,7 @@
         right: 0;
         bottom: 0;
         height: 12px;
-        background-color: #fff;
+        background-color: #aaa;
         box-shadow: 1px 1px 3px #eaeaea, -1px -1px 3px #eaeaea;
         border-radius: 20px;
         -webkit-transition: .4s;
@@ -48,13 +48,13 @@
     }
 
     .dark-mode-button input:checked + .onoff-switch {
-        background-color: #444;
+        background-color: yellow;
         box-shadow: inset 1px 1px 2px #222;
     }
 
     .dark-mode-button input:checked + .onoff-switch:before {
         background-image: url("moon.png");
-        background-color: #333;
+        background-color: #fff;
         box-shadow: none;
         -webkit-transform: translateX(16px);
         -ms-transform: translateX(16px);
